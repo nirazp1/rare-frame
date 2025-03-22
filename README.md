@@ -171,12 +171,4 @@ If you encounter any issues or have questions about the NFT Ticket Management Sy
 - [Base Network](https://base.org/)
 
 
-## 📹 Video Overview
-Check out our video for a detailed overview of the RARE EVO 2025 NFT Ticket Management System:
-[Watch the Video](https://youtu.be/x_ha1qmuEBc)
 
----
----
-
-© 2025 Rare Network LLC (dba RARE EVO). All rights reserved.
-# RARE_FRAME
