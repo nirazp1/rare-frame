@@ -148,10 +148,6 @@ If you encounter any issues or have questions about the NFT Ticket Management Sy
 - Contact us at support@rareevo.io for technical assistance
 - Join our Discord community for real-time support from our team and other users
 
-## 📝 Legal
-
-- [Privacy Policy](/privacy)
-- [Terms and Conditions](/terms)
 
 ## 📅 RARE EVO 2025 Event Information
 
